@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "FAIRY DUST",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-01T08:10:25.456756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fairy Dust",
+      "artist": "Joe Jackson Band",
+      "has_synced": false,
+      "path": "select/01_Fairy_Dust_Joe_Jackson_Band.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fairy Dust",
+      "artist": "Joe Jackson",
+      "has_synced": false,
+      "path": "select/02_Fairy_Dust_Joe_Jackson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tove Lo - Cool Girl (Part of Fairy Dust)",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/03_Tove_Lo_-_Cool_Girl_(Part_of_Fairy_Dust)_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fairy Dust",
+      "artist": "Jackson, Joe, Band",
+      "has_synced": true,
+      "path": "select/04_Fairy_Dust_Jackson,_Joe,_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAIRY DUST",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_FAIRY_DUST_Tommy_february6.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Fairy dust ～魔法の世界～",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_02_Fairy_dust_~魔法の世界~_Tommy_february6.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Fairy Dust",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_03_Fairy_Dust_Tommy_february6.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "FAIRY DUST",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_04_FAIRY_DUST_Tommy_february6.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "FAIRY DUST",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_05_FAIRY_DUST_Tommy_february6.txt"
+    }
+  ]
+}
